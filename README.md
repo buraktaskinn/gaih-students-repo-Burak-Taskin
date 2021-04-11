@@ -11,7 +11,7 @@
 
 
 ## Project Name
-Description of your project.
+10 sorulu bilgi yarışması.
 
 ## Requirements
 ```
